@@ -1,6 +1,6 @@
 # Autonomous CO<sub>2</sub> Detecting Rover
 <a href="https://github.com/AriaMaz">
-  <img src="https://phoneky.co.uk/thumbs/screensavers/down/technology/digitalman_pyiqxoie.gif" align="right" width="240" alt="codedmanwalking">
+  <img src="https://imgur.com/a/4B31U2d" align="right" width="240" alt="Autonomous CO<sub>2</sub> Detecting Rover">
 </a>
 <h3 align="left">Team Members</h3>
 - Aria Maz <br>
