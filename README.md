@@ -1,5 +1,7 @@
 # Autonomous CO<sub>2</sub> Detecting Rover
-
+<a href="https://github.com/AriaMaz">
+  <img src="https://phoneky.co.uk/thumbs/screensavers/down/technology/digitalman_pyiqxoie.gif" align="right" width="240" alt="codedmanwalking">
+</a>
 <h3 align="left">Team Members</h3>
 - Aria Maz <br>
 - Callan Robinson <br> 
