@@ -1,7 +1,7 @@
 # Autonomous CO<sub>2</sub> Detecting Rover
 
 <a href="https://github.com/AriaMaz">
-  <img src="xxxxxxx" align="right" width="240" alt="Logo">
+  <img src="/path/to/img.jpg" align="right" width="240" alt="Logo">
 </a>
 <h3 align="left">Team Members</h3>
 - Aria Maz <br>
