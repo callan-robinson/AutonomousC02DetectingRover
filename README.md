@@ -1,6 +1,8 @@
 # Autonomous CO<sub>2</sub> Detecting Rover
 
-<img width="195" alt="Logo" src="https://github.com/callan-robinson/AutonomousC02DetectingRover/assets/102880878/5d80490e-9390-40d9-b7ee-78ffdc0bc9a9">
+<a href="https://github.com/AriaMaz">
+<img src="https://github.com/callan-robinson/AutonomousC02DetectingRover/assets/102880878/5d80490e-9390-40d9-b7ee-78ffdc0bc9a9" align="right" width="195" alt="Logo">
+</a>
 
 <h3 align="left">Team Members</h3>
 - Aria Maz <br>
